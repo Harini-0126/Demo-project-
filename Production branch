@@ -1,0 +1,7 @@
+<h1>Task tracker App</h1>
+<h2>Add Task</h2>
+<p>All tasks are mandatory</p>
+<h2>Task List</h2>
+<ui>
+<li>Learn Git</li>
+</ui>

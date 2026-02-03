@@ -7,3 +7,5 @@
 </ui>
 <h2>Add text</h2>
 <input>Placeholder="Task name"/>
+<h1>Completed course</h1>
+<p>Completed the task before timeline</p>
